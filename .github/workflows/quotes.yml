@@ -1,0 +1,31 @@
+name: Daily Quote
+
+on:
+  schedule:
+    - cron: "15 0 * * *"  # Schedule to run at 12:15 AM UTC every day
+
+jobs:
+  quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Read random quote
+        id: random-quote
+        run: |
+          quote=$(shuf -n 1 quotes.txt)
+          echo "::set-output name=quote::$quote"
+
+      - name: Update README
+        run: |
+          sed -i "1s/^/# Daily Quote\n\n$QUOTE\n\n/" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "roshansahani226@gmail.com"
+          git config --local user.name "Felix Hud"
+          git add README.md
+          git commit -m "Update README with daily quote"
+          git push
