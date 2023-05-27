@@ -1,5 +1,9 @@
 # Daily Quote
 
+"Life is a journey that must be traveled no matter how bad the roads and accommodations." - Oliver Goldsmith
+
+
+
 "Believe you can and you're halfway there." - Theodore Roosevelt
 
 
