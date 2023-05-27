@@ -3,6 +3,7 @@ name: Daily Quote
 on:
   schedule:
     - cron: "15 0 * * *"  # Schedule to run at 12:15 AM UTC every day
+  workflow_dispatch:
 
 jobs:
   quote:
