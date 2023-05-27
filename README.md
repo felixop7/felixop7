@@ -1,5 +1,9 @@
 # Daily Quote
 
+"Believe you can and you're halfway there." - Theodore Roosevelt
+
+
+
 "Concentrate all your thoughts upon the work in hand. The sun's rays do not burn until brought to a focus." - Alexander Graham Bell
 
 
