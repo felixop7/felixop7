@@ -20,8 +20,8 @@ jobs:
           quote=$(echo "$quote" | sed -e 's/"/\\"/g')
           echo "::set-output name=quote::$quote"
       
-          - name: Update README
-          run: |
+      - name: Update README
+        run: |
             sed -i "s/^# Daily Quote.*/# Daily Quote\n\n${{ steps.random-quote.outputs.quote }}\n\n/" README.md
         
            
