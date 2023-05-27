@@ -1,5 +1,9 @@
 # Daily Quote
 
+"You can't depend on your eyes when your imagination is out of focus." - Mark Twain
+
+# Daily Quote
+
 "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
 
 
