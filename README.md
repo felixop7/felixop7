@@ -1,5 +1,9 @@
 # Daily Quote
 
+"Believe you can and you're halfway there." - Theodore Roosevelt
+
+
+
 "You can't depend on your eyes when your imagination is out of focus." - Mark Twain
 
 
