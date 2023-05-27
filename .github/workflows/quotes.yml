@@ -3,7 +3,7 @@ name: Daily Quote
 on:
   schedule:
     - cron: "15 0 * * *"  # Schedule to run at 12:15 AM UTC every day
-  workflow_dispatch:
+  workflow_dispatch:  # Manually trigger the workflow
 
 jobs:
   quote:
@@ -25,10 +25,10 @@ jobs:
 
       - name: Commit and push changes
         env:
-          github_token: ${{secrets.MY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "roshansahani226@gmail.com"
+          git config --local user.name "Roshan Sahani"
           git add README.md
           git commit -m "Update README with daily quote"
           git push
