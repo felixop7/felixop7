@@ -7,7 +7,6 @@
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
 <h3 align="center">👑A Man With His Laptop Who Thinks He Can Change The Whole World👑</h3>
 
-{{QUOTE}}
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixop7&label=Profile%20views&color=0e75b6&style=flat" alt="felixop7" /> </p>
 
 - 🔭 I’m currently working on [ArtiFynance](https://github.com/felixop7/ArtiFynance)
