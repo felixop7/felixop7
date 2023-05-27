@@ -22,7 +22,8 @@ jobs:
       
       - name: Update README
         run: |
-            sed -i "1s/^# Daily Quote.*/# Daily Quote\n\n${{ steps.random-quote.outputs.quote }}\n\n/" README.md
+            sed -i '0,/^"/{s/^".*$/'"$(echo "${{ steps.random-quote.outputs.quote }}")"'/}' README.md
+        
         
              
       - name: Commit and push changes
