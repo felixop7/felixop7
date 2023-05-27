@@ -22,9 +22,9 @@ jobs:
       
       - name: Update README
         run: |
-            sed -i "s/^# Daily Quote.*/# Daily Quote\n\n${{ steps.random-quote.outputs.quote }}\n\n/" README.md
+            sed -i "1s/^# Daily Quote.*/# Daily Quote\n\n${{ steps.random-quote.outputs.quote }}\n\n/" README.md
         
-           
+             
       - name: Commit and push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
