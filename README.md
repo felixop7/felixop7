@@ -3,14 +3,6 @@
 "Life is a journey that must be traveled no matter how bad the roads and accommodations." - Oliver Goldsmith
 
 
-
-"Believe you can and you're halfway there." - Theodore Roosevelt
-
-
-
-"You can't depend on your eyes when your imagination is out of focus." - Mark Twain
-
-
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
 <h3 align="center">👑A Man With His Laptop Who Thinks He Can Change The Whole World👑</h3>
 
