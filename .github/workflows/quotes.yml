@@ -17,6 +17,7 @@ jobs:
         id: random-quote
         run: |
           quote=$(shuf -n 1 quotes.txt)
+          quote=$(echo "$quote" | sed 's/\(['"'"'\]\)/\\\1/g')
           echo "::set-output name=quote::$quote"
       
       - name: Update README
