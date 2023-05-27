@@ -1,5 +1,9 @@
 # Daily Quote
 
+"Concentrate all your thoughts upon the work in hand. The sun's rays do not burn until brought to a focus." - Alexander Graham Bell
+
+
+
 "Life is a journey that must be traveled no matter how bad the roads and accommodations." - Oliver Goldsmith
 
 
