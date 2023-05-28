@@ -1,6 +1,6 @@
 # Daily Quote
 
-"Concentrate all your thoughts upon the work in hand. The sun's rays do not burn until brought to a focus." - Alexander Graham Bell
+"The purpose of our lives is to be happy." - Dalai Lama
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
