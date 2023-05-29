@@ -1,6 +1,6 @@
 # Daily Quote
 
-"The purpose of our lives is to be happy." - Dalai Lama
+"Stay focused, go after your dreams, and keep moving toward your goals." - LL Cool J
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
