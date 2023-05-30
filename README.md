@@ -1,6 +1,6 @@
 # Daily Quote
 
-"Stay focused, go after your dreams, and keep moving toward your goals." - LL Cool J
+"The best way to predict the future is to create it." - Peter Drucker
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
