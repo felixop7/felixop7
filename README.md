@@ -1,6 +1,6 @@
 # Daily Quote
 
-"The best way to predict the future is to create it." - Peter Drucker
+"Life is short, and its up to you to make it sweet." - Sarah Louise Delany
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
