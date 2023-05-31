@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/felixop7?tab=repositories](https://github.com/felixop7?tab=repositories)
 
-- 📝 I regularly write articles on [roshansahani.com.np](roshansahani.com.np)
+- 📝 I regularly write articles on [roshansahani.com.np](https://www.roshansahani.com.np)
 
 - 💬 Ask me about **css,js,github,cybersec,networking**
 
