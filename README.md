@@ -1,6 +1,6 @@
 # Daily Quote
 
-"Life is short, and its up to you to make it sweet." - Sarah Louise Delany
+"The only way to do great work is to love what you do." - Steve Jobs
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
