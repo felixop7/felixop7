@@ -1,6 +1,6 @@
 # Daily Quote
 
-"You can't depend on your eyes when your imagination is out of focus." - Mark Twain
+"Code is like humor. When you have to explain it, it’s bad." - Cory House
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
