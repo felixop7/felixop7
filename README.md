@@ -1,6 +1,6 @@
 # Daily Quote
 
-"Stay focused, go after your dreams, and keep moving toward your goals." - LL Cool J
+"Concentrate all your thoughts upon the work in hand. The sun's rays do not burn until brought to a focus." - Alexander Graham Bell
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
