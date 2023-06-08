@@ -1,6 +1,6 @@
 # Daily Quote
 
-"Concentrate all your thoughts upon the work in hand. The sun's rays do not burn until brought to a focus." - Alexander Graham Bell
+"Life is 10% what happens to us and 90% how we react to it." - Charles R. Swindoll
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
