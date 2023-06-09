@@ -1,6 +1,6 @@
 # Daily Quote
 
-"Life is 10% what happens to us and 90% how we react to it." - Charles R. Swindoll
+"Believe you can and you're halfway there." - Theodore Roosevelt
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
