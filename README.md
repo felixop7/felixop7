@@ -1,6 +1,6 @@
 # Daily Quote
 
-"Believe you can and you're halfway there." - Theodore Roosevelt
+"Life is really simple, but we insist on making it complicated." - Confucius
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
