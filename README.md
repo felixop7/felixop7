@@ -1,6 +1,6 @@
 # Daily Quote
 
-"Life is really simple, but we insist on making it complicated." - Confucius
+"Your time is limited, don't waste it living someone else's life." - Steve Jobs
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
