@@ -1,6 +1,6 @@
 # Daily Quote
 
-"Your time is limited, don't waste it living someone else's life." - Steve Jobs
+"Stay focused, go after your dreams, and keep moving toward your goals." - LL Cool J
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
