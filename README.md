@@ -1,6 +1,6 @@
 # Daily Quote
 
-"The purpose of our lives is to be happy." - Dalai Lama
+"Life is short, and its up to you to make it sweet." - Sarah Louise Delany
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
