@@ -1,6 +1,6 @@
 # Daily Quote
 
-"Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+"The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
