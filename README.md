@@ -1,6 +1,6 @@
 # Daily Quote
 
-"The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+"Believe you can and you're halfway there." - Theodore Roosevelt
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
