@@ -1,6 +1,6 @@
 # Daily Quote
 
-"The ability to focus is a competitive advantage in the modern world." - Cal Newport
+"Your time is limited, don't waste it living someone else's life." - Steve Jobs
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
