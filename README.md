@@ -1,6 +1,6 @@
 # Daily Quote
 
-"The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+"The ability to focus is a competitive advantage in the modern world." - Cal Newport
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
