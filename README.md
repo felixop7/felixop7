@@ -1,6 +1,6 @@
 # Daily Quote
 
-"Concentrate all your thoughts upon the work in hand. The sun's rays do not burn until brought to a focus." - Alexander Graham Bell
+"Technology is anything that wasn’t around when you were born." - Alan Kay
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
