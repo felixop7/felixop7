@@ -1,6 +1,6 @@
 # Daily Quote
 
-"Technology is anything that wasn’t around when you were born." - Alan Kay
+"Believe you can and you're halfway there." - Theodore Roosevelt
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
