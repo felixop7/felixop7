@@ -1,6 +1,6 @@
 # Daily Quote
 
-"Believe you can and you're halfway there." - Theodore Roosevelt
+"Stay focused, go after your dreams, and keep moving toward your goals." - LL Cool J
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
