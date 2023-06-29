@@ -1,6 +1,6 @@
 # Daily Quote
 
-"Stay focused, go after your dreams, and keep moving toward your goals." - LL Cool J
+"Technology is anything that wasn’t around when you were born." - Alan Kay
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
