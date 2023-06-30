@@ -1,6 +1,6 @@
 # Daily Quote
 
-"Technology is anything that wasn’t around when you were born." - Alan Kay
+"The successful warrior is the average man, with laser-like focus." - Bruce Lee
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
