@@ -1,6 +1,6 @@
 # Daily Quote
 
-"The successful warrior is the average man, with laser-like focus." - Bruce Lee
+"The purpose of our lives is to be happy." - Dalai Lama
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
