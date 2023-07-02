@@ -1,6 +1,6 @@
 # Daily Quote
 
-"The purpose of our lives is to be happy." - Dalai Lama
+"The best way to predict the future is to create it." - Peter Drucker
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
