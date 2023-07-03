@@ -1,6 +1,6 @@
 # Daily Quote
 
-"The best way to predict the future is to create it." - Peter Drucker
+"The only way to do great work is to love what you do." - Steve Jobs
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
