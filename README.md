@@ -1,6 +1,6 @@
 # Daily Quote
 
-"The only way to do great work is to love what you do." - Steve Jobs
+"Your time is limited, don't waste it living someone else's life." - Steve Jobs
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
