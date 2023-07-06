@@ -1,6 +1,6 @@
 # Daily Quote
 
-"The purpose of our lives is to be happy." - Dalai Lama
+"Life is a journey that must be traveled no matter how bad the roads and accommodations." - Oliver Goldsmith
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
