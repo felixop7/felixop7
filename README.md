@@ -1,6 +1,6 @@
 # Daily Quote
 
-"Life is a journey that must be traveled no matter how bad the roads and accommodations." - Oliver Goldsmith
+"The best way to predict the future is to create it." - Peter Drucker
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
