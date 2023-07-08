@@ -1,6 +1,6 @@
 # Daily Quote
 
-"The best way to predict the future is to create it." - Peter Drucker
+"Concentrate all your thoughts upon the work in hand. The sun's rays do not burn until brought to a focus." - Alexander Graham Bell
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
