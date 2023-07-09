@@ -1,6 +1,6 @@
 # Daily Quote
 
-"Concentrate all your thoughts upon the work in hand. The sun's rays do not burn until brought to a focus." - Alexander Graham Bell
+"The only way to do great work is to love what you do." - Steve Jobs
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
