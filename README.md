@@ -1,6 +1,6 @@
 # Daily Quote
 
-"The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+"Life is really simple, but we insist on making it complicated." - Confucius
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
