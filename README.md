@@ -1,6 +1,6 @@
 # Daily Quote
 
-"Life is really simple, but we insist on making it complicated." - Confucius
+"The successful warrior is the average man, with laser-like focus." - Bruce Lee
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
