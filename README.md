@@ -1,6 +1,6 @@
 # Daily Quote
 
-"The successful warrior is the average man, with laser-like focus." - Bruce Lee
+"The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
