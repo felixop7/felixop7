@@ -1,6 +1,6 @@
 # Daily Quote
 
-"The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+"Your time is limited, don't waste it living someone else's life." - Steve Jobs
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
