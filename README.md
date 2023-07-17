@@ -1,6 +1,6 @@
 # Daily Quote
 
-"The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+"The purpose of our lives is to be happy." - Dalai Lama
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
