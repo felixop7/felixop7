@@ -1,6 +1,6 @@
 # Daily Quote
 
-"The purpose of our lives is to be happy." - Dalai Lama
+"You can't depend on your eyes when your imagination is out of focus." - Mark Twain
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
