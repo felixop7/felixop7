@@ -1,6 +1,6 @@
 # Daily Quote
 
-"You can't depend on your eyes when your imagination is out of focus." - Mark Twain
+"Concentrate all your thoughts upon the work in hand. The sun's rays do not burn until brought to a focus." - Alexander Graham Bell
 
 
 <h1 align="center">Hi 👋, I'm Roshan Sahani.</h1>
