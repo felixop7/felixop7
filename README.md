@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **roshansahani226@gmail.com**
 
-- 📄 Know about my experiences [https://www.roshansahani.com.np/ROSHAN-SAHANI-cv.pdf](https://www.roshansahani.com.np/RoshanSahaniCV.pdf)
+- 📄 Know about my experiences [https://www.roshansahani.com.np/RoshanSahaniCV.pdf](https://www.roshansahani.com.np/RoshanSahaniCV.pdf)
 
 - ⚡ Fun fact **I am watching you.**
 
