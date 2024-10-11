@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixop7&label=Profile%20views&color=0e75b6&style=flat" alt="felixop7" /> </p>
 
-- 🔭 I’m currently working on KUvents.
+- 🔭 I’m currently working on My Math Tool.
 
 - 🌱 I’m currently learning **ML**
 
